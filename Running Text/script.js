@@ -23,3 +23,8 @@ function writeText(){
 speedEl.addEventListener("input",(e)=>{
     time = NUM/e.target.value;
 })
+console.log('2e'/2);
+console.log('2'/2);
+console.log('2'+2);
+console.log('2'-2);
+console.log('2'%2);
